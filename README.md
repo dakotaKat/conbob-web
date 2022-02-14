@@ -1,2 +1,2 @@
-# conbob-web
-Consolidated Bobcat web
+# Welcome to Consolidated Bobcat (ConBob)
+Welcome to Consolidated Bobcat (ConBob) web
