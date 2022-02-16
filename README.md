@@ -1,2 +1,2 @@
 # Welcome to Consolidated Bobcat (ConBob)
-Welcome to Consolidated Bobcat (ConBob) web
+<img src="/conbob%20logo%20alt.png" width="50%">
